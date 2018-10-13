@@ -1,3 +1,4 @@
+#This is a Program to find a palindrome of a String.
 def palindrome(string):
 	s = string.lower()
 	s = s.replace(" ","")
